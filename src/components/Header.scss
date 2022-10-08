@@ -26,3 +26,16 @@
     line-height: 1.6;
   }
 }
+
+@media only screen and (max-width: 29.3em) {
+  .header {
+    &-heading {
+      font-size: 2.7rem;
+      line-height: 1.5;
+    }
+
+    &-description {
+      font-size: 1.7rem;
+    }
+  }
+}
