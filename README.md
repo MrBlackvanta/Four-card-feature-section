@@ -34,4 +34,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@MrBlackvanta](https://www.frontendmentor.io/profile/MrBlackvanta)
-- GitHub = [@MrBlackvanta](https://github.com/MrBlackvanta)
+- GitHub - [@MrBlackvanta](https://github.com/MrBlackvanta)
